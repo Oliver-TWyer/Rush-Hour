@@ -1,0 +1,137 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using TMPro;
+using System;
+using System.Data;
+
+public class StatusScript : MonoBehaviour
+{
+
+    private SystemScript sysScript;
+
+    public List<CarPassenger> activeCarJourneys;
+    public TextMeshProUGUI populationText, employmentText, activePaxText, activeCarPaxText;
+    public int population, employment;
+    public List<Passenger> activePax;
+    private double timer;
+    private double waveCompleteTimer;
+    private DateTime time;
+    private List<CarPassenger> finishedCarJourneys;
+    public List<FillerCitizen> intermissionCitizens;
+    public List<FillerCitizen> finishedIntermissionCitizens;
+    public bool rushActivated;
+    public TextMeshProUGUI statusText;
+    private Color dangerColour, safetyColour, standardColour;
+    public int abortedBecauseOfLongJourneyTime;
+
+    public GameObject WaveSummaryPanel;
+    public TextMeshProUGUI trainJourneysText, carJourneysText, abortedJourneysText, airPollutionText;
+
+
+    private void Start()
+    {
+        sysScript = FindObjectOfType<SystemScript>();
+
+        activePax = new List<Passenger>();
+        activeCarJourneys = new List<CarPassenger>();
+        finishedCarJourneys = new List<CarPassenger>();
+        intermissionCitizens = new List<FillerCitizen>();
+        population = 0; employment = 0;
+        timer = 0;
+        rushActivated = false;
+        waveCompleteTimer = 5;
+
+        dangerColour = sysScript.dangerColour;
+        safetyColour = sysScript.safetyColour;
+        standardColour = sysScript.standardColour;
+        abortedBecauseOfLongJourneyTime = 0;
+    }
+    private void Update()
+    {
+        time = DateTime.Now;
+
+        foreach(CarPassenger cpsg in activeCarJourneys)
+        { 
+            if (time > cpsg.finishTime)
+            {
+                finishedCarJourneys.Add(cpsg);
+            }
+        }
+        
+        foreach(CarPassenger cpsg in finishedCarJourneys)
+        {
+            activeCarJourneys.Remove(cpsg);
+
+            if (cpsg.citizen.GetType() == typeof(FillerCitizen))
+            {
+                cpsg.citizen.CompleteJourney();
+            }
+        }
+        finishedCarJourneys.Clear();
+
+        foreach(FillerCitizen c in intermissionCitizens)
+        {
+            if(time > c.intermissionFinishTime)
+            {
+                c.Init();
+                finishedIntermissionCitizens.Add(c);
+            }
+        }
+
+        foreach(FillerCitizen c in finishedIntermissionCitizens)
+        {
+            intermissionCitizens.Remove(c);
+        }
+        finishedIntermissionCitizens.Clear();
+
+        if (timer < 0.5)
+        {
+            timer += Time.deltaTime;
+        }
+        else
+        {
+            populationText.text = population.ToString();
+            employmentText.text = employment.ToString();
+            activePaxText.text = activePax.Count.ToString();
+            activeCarPaxText.text = activeCarJourneys.Count.ToString();
+
+            timer = 0;
+        }
+
+        if(rushActivated && activePax.Count == 0 && activeCarJourneys.Count == 0)
+        {
+            UpdateStatus("Wave Completed Successfully!", safetyColour);
+
+            if (waveCompleteTimer > 0)
+            {
+                waveCompleteTimer -= Time.deltaTime;
+            }
+            else
+            {
+                UpdateStatus("Next wave coming soon...", standardColour);
+                UpdateStatus(abortedBecauseOfLongJourneyTime.ToString(), standardColour);
+                abortedBecauseOfLongJourneyTime = 0;
+                rushActivated = false;
+                waveCompleteTimer = 5;
+            }
+        }
+    }
+
+    public void UpdateStatus(string text, Color colour)
+    {
+        statusText.text = text;
+        statusText.color = colour;
+    }
+    public void UpdateStatus(string text)
+    {
+        statusText.text = text;
+        statusText.color = standardColour;
+    }
+
+    public void OpenWaveSummary()
+    {
+        WaveSummaryPanel.SetActive(true); //wave summary opened when wave is completed
+        trainJourneysText.text = 
+    }
+}

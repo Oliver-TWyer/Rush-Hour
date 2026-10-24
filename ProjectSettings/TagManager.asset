@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - info
+  - district
+  - lcs
+  - sysScr
+  - lm
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Error Message
+  - Everything else
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: train
+    uniqueID: 94733065
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Text Layer
+    uniqueID: 1713017543
+    locked: 0
+  - name: ' Error message'
+    uniqueID: 214040331
+    locked: 0
+  - name: Everything else
+    uniqueID: 3526001847
+    locked: 0

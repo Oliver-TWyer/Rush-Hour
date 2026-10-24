@@ -1,0 +1,866 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CimMover\\CimMover\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|d:\\cimmover\\cimmover\\assets\\game management scripts\\statusscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\game management scripts\\statusscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\citizen scripts\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\citizen scripts\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\passenger scripts\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\passenger scripts\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\game management scripts\\systemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\game management scripts\\systemscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\transport management scripts\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\transport management scripts\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\train scripts\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\train scripts\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\pathfinding scripts\\djikstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding scripts\\djikstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\transport management scripts\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\transport management scripts\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\game management scripts\\bankmanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\game management scripts\\bankmanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\game management scripts\\errormessagescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\game management scripts\\errormessagescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\game management scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\game management scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\pathfinding scripts\\journey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding scripts\\journey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\ui scripts\\informationviewscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\ui scripts\\informationviewscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\game management scripts\\rushhourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\game management scripts\\rushhourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\pathfinding scripts\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding scripts\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\ui scripts\\menumanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\ui scripts\\menumanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\passenger scripts\\carpassenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\passenger scripts\\carpassenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\game management scripts\\viewinfoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\game management scripts\\viewinfoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\train scripts\\trainmanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\train scripts\\trainmanagerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\transport management scripts\\linemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\transport management scripts\\linemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\LineManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LineManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\pathfinding scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\game management scripts\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\game management scripts\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\camera control scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\camera control scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\camera control scripts\\camerazoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\camera control scripts\\camerazoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\camera control scripts\\cameracontrolscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\camera control scripts\\cameracontrolscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\ui scripts\\loadingscreenscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\ui scripts\\loadingscreenscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\ui scripts\\floatingmessagescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\ui scripts\\floatingmessagescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\ui scripts\\draggablepanelscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\ui scripts\\draggablepanelscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\ui scripts\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\ui scripts\\menuscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\ui scripts\\textanimationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\ui scripts\\textanimationscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\train scripts\\smallmoderntrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\train scripts\\smallmoderntrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\train scripts\\largemoderntrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\train scripts\\largemoderntrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\train scripts\\large1970train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\train scripts\\large1970train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\train scripts\\small1970train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\train scripts\\small1970train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\game management scripts\\businessdistrict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\game management scripts\\businessdistrict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|D:\\CimMover\\CimMover\\assets\\sound effects\\buttonclicksound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98FDE50-9141-DDA0-0AC5-214EE7875658}|Assembly-CSharp.csproj|solutionrelative:assets\\sound effects\\buttonclicksound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\GridManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GridManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\BankManagerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\BankManagerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\InformationViewScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\InformationViewScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\District.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\District.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\CameraZoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraZoom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\FollowCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FollowCamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\FloatingMessageScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FloatingMessageScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\CameraControlScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraControlScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\DraggablePanelScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DraggablePanelScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\MenuManagerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MenuManagerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\LoadingScreenScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\LoadingScreenScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\MenuScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MenuScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\RushHourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\RushHourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\FadeManagerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FadeManagerScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\Misc\\FillerCitizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Misc\\FillerCitizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CimMover\\CimMover\\Assets\\GameOverScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameOverScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\SystemScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Game Management Scripts\\SystemScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\SystemScript.cs",
+              "RelativeToolTip": "Assets\\Game Management Scripts\\SystemScript.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAJMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:17:35.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Train.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Train Scripts\\Train.cs",
+              "RelativeDocumentMoniker": "Assets\\Train Scripts\\Train.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Train Scripts\\Train.cs",
+              "RelativeToolTip": "Assets\\Train Scripts\\Train.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAiwNgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:35:23.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Djikstra.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Pathfinding Scripts\\Djikstra.cs",
+              "RelativeDocumentMoniker": "Assets\\Pathfinding Scripts\\Djikstra.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Pathfinding Scripts\\Djikstra.cs",
+              "RelativeToolTip": "Assets\\Pathfinding Scripts\\Djikstra.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowGQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:47:22.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Passenger Scripts\\Passenger.cs",
+              "RelativeDocumentMoniker": "Assets\\Passenger Scripts\\Passenger.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Passenger Scripts\\Passenger.cs",
+              "RelativeToolTip": "Assets\\Passenger Scripts\\Passenger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:34:16.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Station.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Transport Management Scripts\\Station.cs",
+              "RelativeDocumentMoniker": "Assets\\Transport Management Scripts\\Station.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Transport Management Scripts\\Station.cs",
+              "RelativeToolTip": "Assets\\Transport Management Scripts\\Station.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwHEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:18:17.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Citizen Scripts\\Citizen.cs",
+              "RelativeDocumentMoniker": "Assets\\Citizen Scripts\\Citizen.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Citizen Scripts\\Citizen.cs",
+              "RelativeToolTip": "Assets\\Citizen Scripts\\Citizen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:29:17.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatusScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\StatusScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Game Management Scripts\\StatusScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\StatusScript.cs",
+              "RelativeToolTip": "Assets\\Game Management Scripts\\StatusScript.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAuwBYBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:27:39.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Line.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Transport Management Scripts\\Line.cs",
+              "RelativeDocumentMoniker": "Assets\\Transport Management Scripts\\Line.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Transport Management Scripts\\Line.cs",
+              "RelativeToolTip": "Assets\\Transport Management Scripts\\Line.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAzwOsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:42:13.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankManagerScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\BankManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Game Management Scripts\\BankManagerScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\BankManagerScript.cs",
+              "RelativeToolTip": "Assets\\Game Management Scripts\\BankManagerScript.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAuwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:05:49.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Journey.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Pathfinding Scripts\\Journey.cs",
+              "RelativeDocumentMoniker": "Assets\\Pathfinding Scripts\\Journey.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Pathfinding Scripts\\Journey.cs",
+              "RelativeToolTip": "Assets\\Pathfinding Scripts\\Journey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAtwCwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:06:54.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuManagerScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\MenuManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\UI Scripts\\MenuManagerScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\MenuManagerScript.cs",
+              "RelativeToolTip": "Assets\\UI Scripts\\MenuManagerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:16:01.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\GridManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game Management Scripts\\GridManager.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\GridManager.cs",
+              "RelativeToolTip": "Assets\\Game Management Scripts\\GridManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:14:58.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorMessageScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\ErrorMessageScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Game Management Scripts\\ErrorMessageScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\ErrorMessageScript.cs",
+              "RelativeToolTip": "Assets\\Game Management Scripts\\ErrorMessageScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:52:47.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InformationViewScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\InformationViewScript.cs",
+              "RelativeDocumentMoniker": "Assets\\UI Scripts\\InformationViewScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\InformationViewScript.cs",
+              "RelativeToolTip": "Assets\\UI Scripts\\InformationViewScript.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswDkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:28:07.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Pathfinding Scripts\\Edge.cs",
+              "RelativeDocumentMoniker": "Assets\\Pathfinding Scripts\\Edge.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Pathfinding Scripts\\Edge.cs",
+              "RelativeToolTip": "Assets\\Pathfinding Scripts\\Edge.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:37:28.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GameOverScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\GameOverScript.cs",
+              "RelativeDocumentMoniker": "Assets\\GameOverScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\GameOverScript.cs",
+              "RelativeToolTip": "Assets\\GameOverScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:04:08.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RushHourScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\RushHourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Game Management Scripts\\RushHourScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\RushHourScript.cs",
+              "RelativeToolTip": "Assets\\Game Management Scripts\\RushHourScript.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:57:10.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarPassenger.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Passenger Scripts\\CarPassenger.cs",
+              "RelativeDocumentMoniker": "Assets\\Passenger Scripts\\CarPassenger.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Passenger Scripts\\CarPassenger.cs",
+              "RelativeToolTip": "Assets\\Passenger Scripts\\CarPassenger.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:29:35.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ViewInfoScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\ViewInfoScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Game Management Scripts\\ViewInfoScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\ViewInfoScript.cs",
+              "RelativeToolTip": "Assets\\Game Management Scripts\\ViewInfoScript.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAmwLYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:02:09.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TrainManagerScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Train Scripts\\TrainManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Train Scripts\\TrainManagerScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Train Scripts\\TrainManagerScript.cs",
+              "RelativeToolTip": "Assets\\Train Scripts\\TrainManagerScript.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAzwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T20:20:03.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LineManager.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Transport Management Scripts\\LineManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Transport Management Scripts\\LineManager.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Transport Management Scripts\\LineManager.cs",
+              "RelativeToolTip": "Assets\\Transport Management Scripts\\LineManager.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAADwv7kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:18:37.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LineManager.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\LineManager.cs",
+              "RelativeDocumentMoniker": "Assets\\LineManager.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\LineManager.cs",
+              "RelativeToolTip": "Assets\\LineManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:43:54.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoadingScreenScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\LoadingScreenScript.cs",
+              "RelativeDocumentMoniker": "Assets\\UI Scripts\\LoadingScreenScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\LoadingScreenScript.cs",
+              "RelativeToolTip": "Assets\\UI Scripts\\LoadingScreenScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:33:32.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CameraControlScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Camera Control Scripts\\CameraControlScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Camera Control Scripts\\CameraControlScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Camera Control Scripts\\CameraControlScript.cs",
+              "RelativeToolTip": "Assets\\Camera Control Scripts\\CameraControlScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:41:22.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Pathfinding Scripts\\Node.cs",
+              "RelativeDocumentMoniker": "Assets\\Pathfinding Scripts\\Node.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Pathfinding Scripts\\Node.cs",
+              "RelativeToolTip": "Assets\\Pathfinding Scripts\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:36:44.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FloatingMessageScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\FloatingMessageScript.cs",
+              "RelativeDocumentMoniker": "Assets\\UI Scripts\\FloatingMessageScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\FloatingMessageScript.cs",
+              "RelativeToolTip": "Assets\\UI Scripts\\FloatingMessageScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:29:01.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "District.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\District.cs",
+              "RelativeDocumentMoniker": "Assets\\Game Management Scripts\\District.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\District.cs",
+              "RelativeToolTip": "Assets\\Game Management Scripts\\District.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowJsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:02:20.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FollowCamera.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Camera Control Scripts\\FollowCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Camera Control Scripts\\FollowCamera.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Camera Control Scripts\\FollowCamera.cs",
+              "RelativeToolTip": "Assets\\Camera Control Scripts\\FollowCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:45:51.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DraggablePanelScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\DraggablePanelScript.cs",
+              "RelativeDocumentMoniker": "Assets\\UI Scripts\\DraggablePanelScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\DraggablePanelScript.cs",
+              "RelativeToolTip": "Assets\\UI Scripts\\DraggablePanelScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:26:40.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TextAnimationScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\TextAnimationScript.cs",
+              "RelativeDocumentMoniker": "Assets\\UI Scripts\\TextAnimationScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\TextAnimationScript.cs",
+              "RelativeToolTip": "Assets\\UI Scripts\\TextAnimationScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:01:42.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CameraZoom.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Camera Control Scripts\\CameraZoom.cs",
+              "RelativeDocumentMoniker": "Assets\\Camera Control Scripts\\CameraZoom.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Camera Control Scripts\\CameraZoom.cs",
+              "RelativeToolTip": "Assets\\Camera Control Scripts\\CameraZoom.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T16:39:39.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LargeModernTrain.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Train Scripts\\LargeModernTrain.cs",
+              "RelativeDocumentMoniker": "Assets\\Train Scripts\\LargeModernTrain.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Train Scripts\\LargeModernTrain.cs",
+              "RelativeToolTip": "Assets\\Train Scripts\\LargeModernTrain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:34:09.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Large1970Train.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Train Scripts\\Large1970Train.cs",
+              "RelativeDocumentMoniker": "Assets\\Train Scripts\\Large1970Train.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Train Scripts\\Large1970Train.cs",
+              "RelativeToolTip": "Assets\\Train Scripts\\Large1970Train.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:20:39.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MenuScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\MenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\UI Scripts\\MenuScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\UI Scripts\\MenuScript.cs",
+              "RelativeToolTip": "Assets\\UI Scripts\\MenuScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:25:13.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Small1970Train.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Train Scripts\\Small1970Train.cs",
+              "RelativeDocumentMoniker": "Assets\\Train Scripts\\Small1970Train.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Train Scripts\\Small1970Train.cs",
+              "RelativeToolTip": "Assets\\Train Scripts\\Small1970Train.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:30:46.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SmallModernTrain.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Train Scripts\\SmallModernTrain.cs",
+              "RelativeDocumentMoniker": "Assets\\Train Scripts\\SmallModernTrain.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Train Scripts\\SmallModernTrain.cs",
+              "RelativeToolTip": "Assets\\Train Scripts\\SmallModernTrain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:30:16.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BusinessDistrict.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\BusinessDistrict.cs",
+              "RelativeDocumentMoniker": "Assets\\Game Management Scripts\\BusinessDistrict.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Game Management Scripts\\BusinessDistrict.cs",
+              "RelativeToolTip": "Assets\\Game Management Scripts\\BusinessDistrict.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:02:26.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FillerCitizen.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Misc\\FillerCitizen.cs",
+              "RelativeDocumentMoniker": "Assets\\Misc\\FillerCitizen.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Misc\\FillerCitizen.cs",
+              "RelativeToolTip": "Assets\\Misc\\FillerCitizen.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wC8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:18:14.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ButtonClickSound.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\Sound Effects\\ButtonClickSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Sound Effects\\ButtonClickSound.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\Sound Effects\\ButtonClickSound.cs",
+              "RelativeToolTip": "Assets\\Sound Effects\\ButtonClickSound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:44:47.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RushHourScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\RushHourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\RushHourScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\RushHourScript.cs",
+              "RelativeToolTip": "Assets\\RushHourScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:56:34.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GridManager.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\GridManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GridManager.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\GridManager.cs",
+              "RelativeToolTip": "Assets\\GridManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:36:40.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BankManagerScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\BankManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\BankManagerScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\BankManagerScript.cs",
+              "RelativeToolTip": "Assets\\BankManagerScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:15:16.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MenuManagerScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\MenuManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuManagerScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\MenuManagerScript.cs",
+              "RelativeToolTip": "Assets\\MenuManagerScript.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:51:29.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoadingScreenScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\LoadingScreenScript.cs",
+              "RelativeDocumentMoniker": "Assets\\LoadingScreenScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\LoadingScreenScript.cs",
+              "RelativeToolTip": "Assets\\LoadingScreenScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:45:54.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "InformationViewScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\InformationViewScript.cs",
+              "RelativeDocumentMoniker": "Assets\\InformationViewScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\InformationViewScript.cs",
+              "RelativeToolTip": "Assets\\InformationViewScript.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAEsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:40:41.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FadeManagerScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\FadeManagerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\FadeManagerScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\FadeManagerScript.cs",
+              "RelativeToolTip": "Assets\\FadeManagerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:36:19.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "District.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\District.cs",
+              "RelativeDocumentMoniker": "Assets\\District.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\District.cs",
+              "RelativeToolTip": "Assets\\District.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADgvzsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:50:09.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MenuScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\MenuScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\MenuScript.cs",
+              "RelativeToolTip": "Assets\\MenuScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:46:12.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CameraZoom.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\CameraZoom.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraZoom.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\CameraZoom.cs",
+              "RelativeToolTip": "Assets\\CameraZoom.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:55:35.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FollowCamera.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\FollowCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\FollowCamera.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\FollowCamera.cs",
+              "RelativeToolTip": "Assets\\FollowCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T15:03:01.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FloatingMessageScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\FloatingMessageScript.cs",
+              "RelativeDocumentMoniker": "Assets\\FloatingMessageScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\FloatingMessageScript.cs",
+              "RelativeToolTip": "Assets\\FloatingMessageScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:22:46.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CameraControlScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\CameraControlScript.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraControlScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\CameraControlScript.cs",
+              "RelativeToolTip": "Assets\\CameraControlScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:55:45.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DraggablePanelScript.cs",
+              "DocumentMoniker": "D:\\CimMover\\CimMover\\Assets\\DraggablePanelScript.cs",
+              "RelativeDocumentMoniker": "Assets\\DraggablePanelScript.cs",
+              "ToolTip": "D:\\CimMover\\CimMover\\Assets\\DraggablePanelScript.cs",
+              "RelativeToolTip": "Assets\\DraggablePanelScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:21:48.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
