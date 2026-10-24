@@ -8,6 +8,8 @@ The game requires players to design and expand a public transport network across
 
 ## Gameplay
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19cf5840-b1d0-46da-b740-17d2d8fbc132" />
+
 Players manage a city by building a public transport system that responds to the needs of its population.
 
 - **Analyse the city:** View job density and population density across different districts to identify transport demand. Some districts in green are business districts (i.e. have many jobs located there so should be a priority to connect)
@@ -19,6 +21,9 @@ Players manage a city by building a public transport system that responds to the
 - **Grow the city:** Improve the public transport system's rating by increasing connections and ensuring full coverage, and continue expanding to meet demand.
 
 The aim is to develop a transport network that efficiently serves the city's population while keeping journey times competitive with car travel.
+
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/60a83028-0a71-4c0a-afef-810046bd95ff" />
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/8f4ca3df-b1f0-4682-961c-d964b26a802a" />
 
 ## Technical Highlights
 
@@ -38,12 +43,12 @@ Population and job density provide information about where transport connections
 
 Operating the transport network involves maintenance costs. Players must consider the cost of expanding and operating their system alongside its performance and public transport rating.
 
-## 🛠️ Built With
+## Built With
 
 - **C#** — Game logic, algorithms and simulation
 - **Unity** — 2D game development and visualisation
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -64,15 +69,15 @@ Operating the transport network involves maintenance costs. Players must conside
 4. Open the project with the appropriate Unity Editor version.
 5. Open the game's main scene and press **Play**.
 
-## 📚 Project Background
+## Project Background
 
 Rush Hour was developed as my A-Level Computer Science NEA (AQA exam board). The project involved designing and implementing an interactive simulation that combines graph algorithms, transport routing, passenger behaviour and resource management.
 
 It gave me practical experience applying algorithmic problem-solving to a larger software project using C# and Unity.
 
-## 👨‍💻 Author
+## Author
 
-**Oliver Twyer**
+**Oliver Toraj-Wyer**
 
 [GitHub Profile](https://github.com/Oliver-TWyer)
 
